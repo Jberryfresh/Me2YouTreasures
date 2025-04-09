@@ -1,0 +1,32 @@
+.header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo {
+    font-size: 2rem;
+    color: #333;
+    text-decoration: none;
+}
+
+.navList {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 10px 0 0;
+}
+
+.navList li {
+    margin: 0 15px;
+}
+
+.navList a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.navList a:hover {
+    text-decoration: underline;
+}
