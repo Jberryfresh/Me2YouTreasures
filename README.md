@@ -1,5 +1,7 @@
 # Me2YouTreasures Project
 
+### **STILL UNDER CONSTRUCTION**
+
 ## Overview
 Me2YouTreasures is a web application designed to allow users to post items for sale. The project is built using React and Next.js for the frontend, and Node.js with Express.js for the backend. It utilizes MongoDB for data storage and Mongoose for database interaction, with JWT for authentication.
 
